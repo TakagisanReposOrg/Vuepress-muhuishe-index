@@ -1,6 +1,6 @@
 ---
 title: イントロ
-index: false
+icon: blog
 ---
   **木絵社（2023.08- ）**
 

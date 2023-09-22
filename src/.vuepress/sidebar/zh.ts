@@ -16,5 +16,10 @@ export const zhSidebar = sidebar({
         "intro",
       ],
     },
+    {
+      text: "联络",
+      icon: "rss",
+      link: "/about/contact/",
+    },
   ],
 });

@@ -5,7 +5,7 @@ export const jaSidebar = sidebar({
     {
       text: "ホーム",
       icon: "home",
-      link: "/",
+      link: "/ja/",
     },
     {
       text: "概要",
@@ -15,6 +15,11 @@ export const jaSidebar = sidebar({
       children: [
         "intro",
    ],
+  },
+  {
+    text: "お問い合わせ",
+    icon: "rss",
+    link: "/ja/about/contact/",
   },
   ],
 });

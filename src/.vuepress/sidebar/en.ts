@@ -5,15 +5,21 @@ export const enSidebar = sidebar({
     {
       text: "Home",
       icon: "home",
-      link: "/",
+      link: "/en/",
     },
     {
       text: "Info",
       prefix: "about/",
+      icon: "book",
       link: "about/",
       children: [
         "intro",
    ],
+  },
+  {
+    text: "Contact",
+    icon: "rss",
+    link: "/en/about/contact/",
   },
 ],
 });
