@@ -8,9 +8,13 @@ export const jaSidebar = sidebar({
       link: "/",
     },
     {
-      text: "概要/お問い合わせ",
-      icon: "info",
+      text: "概要",
+      icon: "book",
+      prefix: "about/",
       link: "about/",
-    },
+      children: [
+        "intro",
+   ],
+  },
   ],
 });

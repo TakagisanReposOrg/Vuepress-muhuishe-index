@@ -8,9 +8,12 @@ export const enSidebar = sidebar({
       link: "/",
     },
     {
-      text: "Info/Contract",
-      icon: "info",
+      text: "Info",
+      prefix: "about/",
       link: "about/",
-    },
-  ],
+      children: [
+        "intro",
+   ],
+  },
+],
 });

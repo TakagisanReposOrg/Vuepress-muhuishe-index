@@ -75,6 +75,14 @@ export default hopeTheme({
 
   plugins: {
 
+    components: {
+      // 你想使用的组件
+      components: [
+        "YouTube",
+        "BiliBili",
+      ],
+    },
+
 
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {

@@ -5,6 +5,6 @@ export const jaNavbar = navbar([
   {
     text: "概要/お問い合わせ",
     link: "/ja/about",
-    icon: "info",
+    icon: "book",
   },
 ]);

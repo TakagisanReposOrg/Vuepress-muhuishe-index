@@ -8,9 +8,13 @@ export const zhSidebar = sidebar({
       link: "/",
     },
     {
-      text: "关于/联络",
-      icon: "info",
+      text: "介绍",
+      icon: "book",
+      prefix: "about/",
       link: "about/",
+      children: [
+        "intro",
+      ],
     },
   ],
 });
