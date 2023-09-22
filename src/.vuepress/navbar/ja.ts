@@ -1,6 +1,10 @@
 import { navbar } from "vuepress-theme-hope";
 
-export const enNavbar = navbar([
+export const jaNavbar = navbar([
   "/ja/",
-  "/ja/about/",
+  {
+    text: "概要/お問い合わせ",
+    link: "/ja/about",
+    icon: "info",
+  },
 ]);

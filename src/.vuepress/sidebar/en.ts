@@ -8,20 +8,6 @@ export const enSidebar = sidebar({
       link: "/",
     },
     {
-      text: "Showcase",
-      icon: "box",
-      prefix: "show/",
-      link: "show/",
-      children: [
-        "abba-1",
-        "abba-2",
-        "abba-3",
-        "abba-4",
-        "abba-5",
-        "Manga-End-commemoration-Cards",
-      ],
-    },
-    {
       text: "Info/Contract",
       icon: "info",
       prefix: "about/",

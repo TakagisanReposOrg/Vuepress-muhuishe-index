@@ -12,10 +12,11 @@ heroFullScreen: true
 heroText: 木絵社
 tagline: 高木さんのファンで構成される同人アニメ制作チーム
 actions:
-  - text: Showcase
-    link: ./show/
-
-  - text: About
+  - text: 概要
     link: ./about/
+
+  - text: ↗️
+    link: .
+    icon: language
 
 ---

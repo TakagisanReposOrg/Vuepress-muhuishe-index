@@ -12,10 +12,11 @@ heroFullScreen: true
 heroText: Muhuishe (木绘社)
 tagline: A doujin animation production team composed of fans of Takagi-san.
 actions:
-  - text: Showcase
-    link: ./show/
-
-  - text: About
+  - text: Info
     link: ./about/
+
+  - text: ↗️
+    link: .
+    icon: language
 
 ---
