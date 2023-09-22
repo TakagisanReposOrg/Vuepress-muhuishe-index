@@ -10,11 +10,11 @@ export default hopeTheme({
     url: "https://anime-team.takagi3.top",
   },
 
-  favicon: "/favicon.png",
+  favicon: "https://pic.mufeng086.com/i/2023/09/22/125oyrg.png",
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/favicon.png",
+  logo: "https://pic.mufeng086.com/i/2023/09/22/125oyrg.png",
 
   docsDir: "src",
 
