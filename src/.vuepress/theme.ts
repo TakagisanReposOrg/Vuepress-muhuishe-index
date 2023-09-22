@@ -16,7 +16,7 @@ export default hopeTheme({
 
   logo: "https://pic.mufeng086.com/i/2023/09/22/inc70i.webp",
 
-  repo: "https://github.com/MuFeng086/Vurepress-muhuishe-index",
+  repo: "https://github.com/MuFeng086/Vuepress-muhuishe-index",
 
   docsDir: "src",
 
