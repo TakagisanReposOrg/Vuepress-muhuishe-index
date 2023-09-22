@@ -10,9 +10,7 @@ export const enSidebar = sidebar({
     {
       text: "Info/Contract",
       icon: "info",
-      prefix: "about/",
       link: "about/",
-      children: "structure",
     },
   ],
 });

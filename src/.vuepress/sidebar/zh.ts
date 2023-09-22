@@ -10,9 +10,7 @@ export const zhSidebar = sidebar({
     {
       text: "关于/联络",
       icon: "info",
-      prefix: "about/",
       link: "about/",
-      children: "structure",
     },
   ],
 });

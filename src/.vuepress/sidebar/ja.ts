@@ -10,9 +10,7 @@ export const jaSidebar = sidebar({
     {
       text: "概要/お問い合わせ",
       icon: "info",
-      prefix: "about/",
       link: "about/",
-      children: "structure",
     },
   ],
 });
