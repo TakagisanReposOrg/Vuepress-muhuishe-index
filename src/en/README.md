@@ -9,6 +9,7 @@ bgImage: https://pic.mufeng086.com/i/2023/09/22/ixv1yn.webp
 bgImageStyle:
   background-attachment: fixed
 heroFullScreen: true
+heroImage: https://pic.mufeng086.com/i/2023/09/22/125oyrg.png
 heroText: Muhuishe (木绘社)
 tagline: A doujin animation production team composed of fans of Takagi-san.
 actions:

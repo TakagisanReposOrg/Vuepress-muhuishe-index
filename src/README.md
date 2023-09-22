@@ -9,6 +9,7 @@
   bgImageStyle:
     background-attachment: fixed
   heroFullScreen: true
+  heroImage: https://pic.mufeng086.com/i/2023/09/22/125oyrg.png
   heroText: 木绘社
   tagline: 由高木同学粉丝组成的同人动画制作团队
   actions:

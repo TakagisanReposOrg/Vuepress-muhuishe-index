@@ -4,7 +4,20 @@ export const zhNavbar = navbar([
   "/",
   {
     text: "介绍",
-    link: "/about",
+    prefix: "/about",
     icon: "book",
+    children: [
+      {
+        text: "简介",
+        icon: "blog",
+        link: "/intro",
+      },
+
+    ],
+  },
+  {
+    text: "联络",
+    icon: "rss",
+    link: "/about/contact",
   },
 ]);

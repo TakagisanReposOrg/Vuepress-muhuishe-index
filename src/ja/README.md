@@ -9,6 +9,7 @@ bgImage: https://pic.mufeng086.com/i/2023/09/22/ixv1yn.webp
 bgImageStyle:
   background-attachment: fixed
 heroFullScreen: true
+heroImage: https://pic.mufeng086.com/i/2023/09/22/125oyrg.png
 heroText: 木絵社
 tagline: 高木さんのファンで構成される同人アニメ制作チーム
 actions:
