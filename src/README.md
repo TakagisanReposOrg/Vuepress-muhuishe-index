@@ -14,7 +14,7 @@
   actions:
     - text: 关于
       link: ./about/
-
+      
     - text: ↗️
       link: .
       icon: language

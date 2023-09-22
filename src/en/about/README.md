@@ -1,5 +1,5 @@
 ---
-title: Info/Contract
+title: Info
 index: true
 icon: info
 ---

@@ -1,5 +1,5 @@
 ---
-title: 概要/お問い合わせ
+title: 概要
 index: true
 icon: info
 ---

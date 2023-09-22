@@ -1,5 +1,5 @@
 ---
-title: 关于/联络
+title: 关于
 index: true
 icon: info
 ---
