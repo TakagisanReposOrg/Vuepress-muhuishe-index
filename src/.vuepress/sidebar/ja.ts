@@ -21,7 +21,8 @@ export const jaSidebar = sidebar({
   {
     text: "公開情報",
     icon: "fa-solid fa-photo-film",
-    link: "/ja/archive",
+    prefix: "/ja/archive/",
+    link: "/ja/archive/",
   },
   {
     text: "お問い合わせ",

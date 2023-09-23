@@ -1,6 +1,5 @@
 ---
 title: Intro
-index: false
 icon: info
 ---
   **Muhuishe（2023.08- ）**
