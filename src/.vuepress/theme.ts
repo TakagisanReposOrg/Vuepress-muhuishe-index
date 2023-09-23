@@ -89,7 +89,11 @@ export default hopeTheme({
       serverURL: "https://comment2.takagi3.top",
       dark: "auto",
       meta: ["nick","mail"],
-      
+      emoji: [
+        '//unpkg.com/@waline/emojis@1.2.0/bmoji',
+        '//unpkg.com/@waline/emojis@1.2.0/qq',
+        '//unpkg.com/@waline/emojis@1.2.0/bilibili',
+      ],
     },
 
     // All features are enabled for demo, only preserve features you need here
