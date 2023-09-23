@@ -25,4 +25,8 @@
       link: ./about/contact
       icon: sitemap
 
+    - text: 留言板
+      link: ./message-board
+      icon: message
+
 ---

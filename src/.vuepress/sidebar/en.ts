@@ -19,9 +19,19 @@ export const enSidebar = sidebar({
    ],
   },
   {
+    text: "Audiovisual-archive",
+    icon: "fa-solid fa-photo-film",
+    link: "/en/archive",
+  },
+  {
     text: "Contact",
     icon: "fa-solid fa-sitemap",
     link: "/en/about/contact/",
+  },
+  {
+    text: "Message-board",
+    icon: "message",
+    link: "/en/message-board/",
   },
 ],
 });

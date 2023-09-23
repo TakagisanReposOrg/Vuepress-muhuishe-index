@@ -25,6 +25,12 @@ export const jaNavbar = navbar([
     ],
   },
   {
+    text: "公開情報",
+    icon: "fa-solid fa-photo-film",
+    prefix: "/archive",
+    link: "/ja/archive",
+  },
+  {
     text: "お問い合わせ",
     icon: "fa-solid fa-sitemap",
     children: [
@@ -59,4 +65,11 @@ export const jaNavbar = navbar([
       },
     ],
   },
+  {
+    text: "伝言板",
+    icon: "message",
+    prefix: "/message-board",
+    link: "/ja/message-board",
+  },
+
 ]);

@@ -10,7 +10,7 @@ Recording time: 2023.9.23
 - **Supervision**: 小瑀, MuFeng086
 - **Painting Department**
    - **Coloring Group**:
-     Rie, 远航星辰, 致以杰, 团子
+     Rie, 远航星辰, 致以杰, 团子, 天真
    - **Original Painting Team**:
      Rie, 婉瑜, 哆啦A梦, 阿巴Abba_, 致以杰, 大国, 面包娟子, may, 灰羽, 欠欠, 雷z
    - **Storyboard**:

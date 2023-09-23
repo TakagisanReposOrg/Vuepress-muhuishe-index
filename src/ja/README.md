@@ -24,4 +24,8 @@ actions:
   - text: お問い合わせ
     link: ./about/contact
     icon: sitemap
+
+  - text: 伝言板
+    link: ./message-board
+    icon: message
 ---

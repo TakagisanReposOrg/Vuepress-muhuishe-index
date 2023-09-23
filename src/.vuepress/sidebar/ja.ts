@@ -19,9 +19,19 @@ export const jaSidebar = sidebar({
    ],
   },
   {
+    text: "公開情報",
+    icon: "fa-solid fa-photo-film",
+    link: "/ja/archive",
+  },
+  {
     text: "お問い合わせ",
     icon: "fa-solid fa-sitemap",
     link: "/ja/about/contact/",
+  },
+  {
+    text: "伝言板",
+    icon: "message",
+    link: "/ja/message-board/",
   },
   ],
 });

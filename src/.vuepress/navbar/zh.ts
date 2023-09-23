@@ -26,6 +26,12 @@ export const zhNavbar = navbar([
     ],
   },
   {
+    text: "公开信息",
+    icon: "fa-solid fa-photo-film",
+    prefix: "/archive",
+    link: "/archive",
+  },
+  {
     text: "联络",
     icon: "fa-solid fa-sitemap",
     children: [
@@ -55,6 +61,12 @@ export const zhNavbar = navbar([
         link: "mailto:muhuishe@takagi3.cn",
       },
     ],
+  },
+  {
+    text: "留言板",
+    icon: "message",
+    prefix: "/message-board",
+    link: "/message-board",
   },
   {
     text: "高木站点导航",

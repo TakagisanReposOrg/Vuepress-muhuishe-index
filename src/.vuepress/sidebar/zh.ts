@@ -19,9 +19,19 @@ export const zhSidebar = sidebar({
       ],
     },
     {
+      text: "公开信息",
+      icon: "fa-solid fa-photo-film",
+      link: "/archive",
+    },
+    {
       text: "联络",
       icon: "fa-solid fa-sitemap",
       link: "/about/contact/",
+    },
+    {
+      text: "留言板",
+      icon: "message",
+      link: "/message-board",
     },
   ],
 });

@@ -26,6 +26,12 @@ export const enNavbar = navbar([
     ],
   },
   {
+    text: "Audiovisual-archive",
+    icon: "fa-solid fa-photo-film",
+    prefix: "/archive",
+    link: "/en/archive",
+  },
+  {
     text: "Contact",
     icon: "fa-solid fa-sitemap",
     children: [
@@ -56,4 +62,11 @@ export const enNavbar = navbar([
       },
     ],
   },
+  {
+    text: "Message-board",
+    icon: "message",
+    prefix: "/message-board",
+    link: "/en/message-board",
+  },
+
 ])

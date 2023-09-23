@@ -83,7 +83,14 @@ export default hopeTheme({
         "BiliBili",
       ],
     },
-
+    comment: {
+      provider: "Waline",
+      comment: false,
+      serverURL: "https://comment2.takagi3.top",
+      dark: "auto",
+      meta: ["nick","mail"],
+      
+    },
 
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {

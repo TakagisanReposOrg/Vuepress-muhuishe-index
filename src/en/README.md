@@ -25,4 +25,8 @@ actions:
     link: ./about/contact
     icon: fa-solid fa-sitemap
 
+  - text: Message-board
+    link: ./message-board
+    icon: message
+
 ---

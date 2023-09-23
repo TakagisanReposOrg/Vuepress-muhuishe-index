@@ -19,6 +19,7 @@ root((Muhuishe))
      Translation Department
      Editing Department
    Director team
+   Promotion & Operations Group
 ```
 # Display card of main person in charge
 
@@ -68,5 +69,10 @@ title: 江小白 (Animation sound director)
 desc: Hello everyone, this is 江小白. I am a college student. I love music and am good at singing. In my second year of high school, I started to come into contact with the professional knowledge of music production and post-processing. The technology is not mature yet and I am still learning. Looking forward to creating miracles with everyone!
 logo: https://pic.mufeng086.com/i/2023/09/23/jyy57u.webp
 link: https://space.bilibili.com/1685876549 
+```
+```card
+title: 66 (Operations team leader)
+desc: I am just a person who wanted to express my love for "Takagi-san" through videos and did it. I have no other talents. I just hope to bring happiness to the viewers and fans of "Takagi-san".
+logo: https://pic.mufeng086.com/i/2023/09/23/tvdr0s.webp 
 ```
 
