@@ -5,5 +5,5 @@ icon: book
 ---
 
 [イントロ](/ja/about/intro.md)
-[チーム構成](/about/structure.html)
-[スタッフ一覧](/about/staff-list.html)
+[チーム構成](/ja/about/structure.html)
+[スタッフ一覧](/ja/about/staff-list.html)
