@@ -21,12 +21,11 @@ actions:
     link: .
     icon: language
 
+  - text: Audiovisual-archive
+    link: ./archive
+    icon: fa-solid fa-photo-film
+
   - text: Contact
     link: ./about/contact
     icon: fa-solid fa-sitemap
-
-  - text: Message-board
-    link: ./message-board
-    icon: message
-
 ---
