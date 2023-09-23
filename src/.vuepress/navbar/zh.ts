@@ -9,13 +9,18 @@ export const zhNavbar = navbar([
     children: [
       {
         text: "简介",
-        icon: "blog",
+        icon: "info",
         link: "/intro",
       },
       {
         text: "团队架构",
         icon: "fa-solid fa-user-group",
         link: "/structure",
+      },
+      {
+        text: "制作组员名单",
+        icon: "fa-solid fa-address-book",
+        link: "/staff-list",
       },
 
     ],

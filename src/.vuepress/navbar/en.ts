@@ -9,13 +9,18 @@ export const enNavbar = navbar([
     children: [
       {
         text: "Intro",
-        icon: "blog",
+        icon: "info",
         link: "/intro",
       },
       {
         text: "Team-structure",
         icon: "fa-solid fa-user-group",
         link: "/structure",
+      },
+      {
+        text: "Staff-list",
+        icon: "fa-solid fa-address-book",
+        link: "/staff-list",
       },
 
     ],

@@ -43,7 +43,7 @@ link: https://mufeng086.com
 ```card
 title: 致以杰 (Special Instructor)
 desc: I am a person who focuses on developing myself in multiple directions. Please remember to eat well and rest well~ 
-logo: https://pic.mufeng086.com/i/2023/09/23/k8sls0.webp
+logo: https://pic.mufeng086.com/i/2023/09/23/lnp4df.webp
 ```
 ```card
 title: 坐等 (Animation & Post-production-Supervisor)
@@ -65,7 +65,7 @@ link: https://space.bilibili.com/1203140540
 ```
 ```card
 title: 江小白 (Animation sound director)
-desc: 大家好我是江小白hhh，在读大学生一枚，热爱音乐，以唱歌见长，高二开始接触音乐制作与后期处理的专业知识，目前技术尚不成熟，还在学习当中。期待与大家一起创造奇迹！
+desc: Hello everyone, this is 江小白. I am a college student. I love music and am good at singing. In my second year of high school, I started to come into contact with the professional knowledge of music production and post-processing. The technology is not mature yet and I am still learning. Looking forward to creating miracles with everyone!
 logo: https://pic.mufeng086.com/i/2023/09/23/jyy57u.webp
 link: https://space.bilibili.com/1685876549 
 ```

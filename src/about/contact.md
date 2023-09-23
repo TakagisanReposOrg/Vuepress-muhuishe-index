@@ -11,3 +11,7 @@ icon: fa-solid fa-sitemap
 <HopeIcon icon="fa-brands fa-twitter" color="rgb(81, 182, 244)"/> 推特/X：https://twitter.com/muhuishe <br/>
 <HopeIcon icon="fa-brands fa-discord" color="rgb(86, 98, 246)"/> Discord：https://discord.gg/SXVan75C <br/>
 <HopeIcon icon="fa-solid fa-envelopes-bulk" /> 邮箱：[muhuishe@takagi3.cn](mailto:muhuishe@takagi3.cn)
+
+---
+
+<HopeIcon icon="fa-brands fa-qq" color="rgb(0, 196, 244)"/> 木绘社 - 闲聊 & 团队初审群：690339965 | 公号运营群：903044020

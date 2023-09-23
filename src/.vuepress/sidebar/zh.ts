@@ -15,6 +15,7 @@ export const zhSidebar = sidebar({
       children: [
         "intro",
         "structure",
+        "staff-list",
       ],
     },
     {

@@ -9,7 +9,7 @@ export const jaNavbar = navbar([
     children: [
       {
         text: "イントロ",
-        icon: "blog",
+        icon: "info",
         link: "/intro",
       },
       {
@@ -17,7 +17,11 @@ export const jaNavbar = navbar([
         icon: "fa-solid fa-user-group",
         link: "/structure",
       },
-
+      {
+        text: "スタッフ一覧",
+        icon: "fa-solid fa-address-book",
+        link: "/staff-list",
+      },
     ],
   },
   {

@@ -43,7 +43,7 @@ link: https://mufeng086.com
 ```card
 title: 致以杰 （特别指导）
 desc: 我是一个注重多方向发展的人，各位记得好好吃饭好好休息哟～
-logo: https://pic.mufeng086.com/i/2023/09/23/k8sls0.webp
+logo: https://pic.mufeng086.com/i/2023/09/23/lnp4df.webp
 ```
 ```card
 title: 坐等 （动画制作&后期部门 主管）

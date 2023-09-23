@@ -15,6 +15,7 @@ export const jaSidebar = sidebar({
       children: [
         "intro",
         "structure",
+        "staff-list",
    ],
   },
   {

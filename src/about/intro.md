@@ -1,7 +1,7 @@
 ---
 title: 简介
 index: false
-icon: blog
+icon: info
 ---
   **木绘社 （2023.08- ）**
 
