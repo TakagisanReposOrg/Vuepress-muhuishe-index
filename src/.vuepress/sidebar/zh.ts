@@ -21,7 +21,8 @@ export const zhSidebar = sidebar({
     {
       text: "公开信息",
       icon: "fa-solid fa-photo-film",
-      link: "/archive",
+      prefix: "/archive/",
+      link: "/archive/",
     },
     {
       text: "联络",

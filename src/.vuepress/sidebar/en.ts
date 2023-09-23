@@ -21,7 +21,8 @@ export const enSidebar = sidebar({
   {
     text: "Audiovisual-archive",
     icon: "fa-solid fa-photo-film",
-    link: "/en/archive",
+    prefix: "/en/archive/",
+    link: "/en/archive/",
   },
   {
     text: "Contact",
