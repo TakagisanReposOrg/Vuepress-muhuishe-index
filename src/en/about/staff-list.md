@@ -2,6 +2,10 @@
 title: Staff-list
 icon: fa-solid fa-address-book
 ---
+:::tip
+The list may change due to personnel arrangements and other reasons
+Recording time: 2023.9.23
+:::
 - **General Responsible**: 嘿嘿嘿
 - **Supervision**: 小瑀, MuFeng086
 - **Painting Department**
