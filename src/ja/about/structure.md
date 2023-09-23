@@ -26,7 +26,7 @@ root((木絵社))
 title: 嘿嘿嘿 （担当者）
 desc: 「高木さん」を愛する高校生として、高木界隈では無名のファンとして、全力でチームを引っ張っていきます！ 高木さんの物語は終わらない！
 logo: https://pic.mufeng086.com/i/2023/09/23/jyxu0h.webp
-link: blog.jerrydeng.online
+link: https://blog.jerrydeng.online
 ```
 ```card
 title: 小瑀 （監督）

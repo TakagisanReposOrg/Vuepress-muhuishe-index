@@ -26,7 +26,7 @@ root((木绘社))
 title: 嘿嘿嘿 （总负责人）
 desc: 一个热爱高木的学生，高木圈无名氏，会全力带领团队前进的！高木永不完结！
 logo: https://pic.mufeng086.com/i/2023/09/23/jyxu0h.webp
-link: blog.jerrydeng.online
+link: https://blog.jerrydeng.online
 ```
 ```card
 title: 小瑀 （监督）
