@@ -12,12 +12,43 @@ export const enNavbar = navbar([
         icon: "blog",
         link: "/intro",
       },
+      {
+        text: "Team-structure",
+        icon: "fa-solid fa-user-group",
+        link: "/structure",
+      },
 
     ],
   },
   {
     text: "Contact",
-    icon: "rss",
-    link: "/en/about/contact",
+    icon: "fa-solid fa-sitemap",
+    children: [
+      {
+        text: "Bilibili",
+        icon: "fa-brands fa-bilibili",
+        link: "https://space.bilibili.com/1039798377",
+      },
+      {
+        text: "Youtube",
+        icon: "fa-brands fa-youtube",
+        link: "https://www.youtube.com/channel/UCiBTM6mA935YAysLqwv_aMQ",
+      },
+      {
+        text: "Twitter/X",
+        icon: "fa-brands fa-twitter",
+        link: "https://twitter.com/muhuishe",
+      },
+      {
+        text: "Discord",
+        icon: "fa-brands fa-discord",
+        link: "https://discord.gg/SXVan75C",
+      },
+      {
+        text: "Email",
+        icon: "fa-solid fa-envelopes-bulk",
+        link: "mailto:muhuishe@takagi3.cn",
+      },
+    ],
   },
 ])

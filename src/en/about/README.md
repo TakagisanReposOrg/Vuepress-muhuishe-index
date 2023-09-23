@@ -5,3 +5,4 @@ icon: book
 ---
 
 [Intro](/en/about/intro.html)
+[Team-structure](/about/intro.html)

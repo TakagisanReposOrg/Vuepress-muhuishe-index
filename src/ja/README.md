@@ -15,9 +15,13 @@ tagline: 高木さんのファンで構成される同人アニメ制作チー�
 actions:
   - text: 概要
     link: ./about/
+    icon: book
 
   - text: ↗️
     link: .
     icon: language
 
+  - text: お問い合わせ
+    link: ./about/contact
+    icon: sitemap
 ---

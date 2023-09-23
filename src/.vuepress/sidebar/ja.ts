@@ -14,11 +14,12 @@ export const jaSidebar = sidebar({
       link: "about/",
       children: [
         "intro",
+        "structure",
    ],
   },
   {
     text: "お問い合わせ",
-    icon: "rss",
+    icon: "fa-solid fa-sitemap",
     link: "/ja/about/contact/",
   },
   ],

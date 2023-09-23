@@ -13,11 +13,16 @@
   heroText: 木绘社
   tagline: 由高木同学粉丝组成的同人动画制作团队
   actions:
-    - text: 关于
+    - text: 介绍
       link: ./about/
+      icon: book
       
     - text: ↗️
       link: .
       icon: language
+
+    - text: 联络
+      link: ./about/contact
+      icon: sitemap
 
 ---

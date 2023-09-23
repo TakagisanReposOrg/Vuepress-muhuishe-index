@@ -13,11 +13,16 @@ heroImage: https://pic.mufeng086.com/i/2023/09/22/125oyrg.png
 heroText: Muhuishe (木绘社)
 tagline: A doujin animation production team composed of fans of Takagi-san.
 actions:
-  - text: Info
+  - text: About us
     link: ./about/
+    icon: book
 
   - text: ↗️
     link: .
     icon: language
+
+  - text: Contact
+    link: ./about/contact
+    icon: fa-solid fa-sitemap
 
 ---

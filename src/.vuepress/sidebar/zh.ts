@@ -14,11 +14,12 @@ export const zhSidebar = sidebar({
       link: "about/",
       children: [
         "intro",
+        "structure",
       ],
     },
     {
       text: "联络",
-      icon: "rss",
+      icon: "fa-solid fa-sitemap",
       link: "/about/contact/",
     },
   ],

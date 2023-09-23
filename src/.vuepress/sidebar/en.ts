@@ -14,11 +14,12 @@ export const enSidebar = sidebar({
       link: "about/",
       children: [
         "intro",
+        "structure",
    ],
   },
   {
     text: "Contact",
-    icon: "rss",
+    icon: "fa-solid fa-sitemap",
     link: "/en/about/contact/",
   },
 ],

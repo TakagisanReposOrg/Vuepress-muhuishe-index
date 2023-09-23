@@ -12,12 +12,47 @@ export const jaNavbar = navbar([
         icon: "blog",
         link: "/intro",
       },
+      {
+        text: "チーム構成",
+        icon: "fa-solid fa-user-group",
+        link: "/structure",
+      },
 
     ],
   },
   {
     text: "お問い合わせ",
-    icon: "rss",
-    link: "/ja/about/contact",
+    icon: "fa-solid fa-sitemap",
+    children: [
+      {
+        text: "Bilibili",
+        icon: "fa-brands fa-bilibili",
+        link: "https://space.bilibili.com/1039798377",
+      },
+      {
+        text: "Youtube",
+        icon: "fa-brands fa-youtube",
+        link: "https://www.youtube.com/channel/UCiBTM6mA935YAysLqwv_aMQ",
+      },
+      {
+        text: "Twitter/X",
+        icon: "fa-brands fa-twitter",
+        link: "https://twitter.com/muhuishe",
+      },
+      {
+        text: "Discord",
+        icon: "fa-brands fa-discord",
+        link: "https://discord.gg/SXVan75C",
+      },
+      {
+        text: "電子メール",
+        icon: "fa-solid fa-envelopes-bulk",
+        link: "mailto:muhuishe@takagi3.cn",
+      },
+      {
+        text: "ニコニコ",
+        link: "https://www.nicovideo.jp/user/130365678",
+      },
+    ],
   },
 ]);
