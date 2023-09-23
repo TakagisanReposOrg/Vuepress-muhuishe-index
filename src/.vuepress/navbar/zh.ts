@@ -56,4 +56,9 @@ export const zhNavbar = navbar([
       },
     ],
   },
+  {
+    text: "高木站点导航",
+    icon: "fa-solid fa-map-location-dot",
+    link: "https://takagi3.cn"
+  },
 ]);
