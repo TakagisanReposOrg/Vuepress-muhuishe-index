@@ -20,14 +20,6 @@ icon: fa-solid fa-photo-film
 
 ![](https://pic.mufeng086.com/i/2023/09/24/kn5csm.webp)
 
-@tab 粉丝向视频（运营组制作）
-
-- **[回忆向|AMV]高木永不完结 MY love is forever!!!** （2023.8.11）
-<BiliBili bvid="BV1HV4y1Y7bj" />
-
-- **【混剪】高木|凄美地** （2023.8.8）
-<BiliBili bvid="BV1Zp4y1u7i8" />
-
 @tab 其他图片（团队成员制作）
 
 - **漫画《相对论》话-漫画图上色**
