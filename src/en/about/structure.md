@@ -68,7 +68,7 @@ link: https://space.bilibili.com/1203140540
 title: Mrtank<br>（Translation & AI Dubbing Team Supervisor）
 desc: As a working novice programmer and technical nerd, I am good at lighting up some strange "skill points" for myself, such as lighting up "module production technology" to create GTA Takagi, which is a job that makes people feel embarrassed. I am responsible for translation and AI dubbing in the project.
 logo: https://pic.mufeng086.com/i/2023/09/24/j263m5.webp
-link: https://space.bilibili.com/1685876549 
+link: https://space.bilibili.com/1791122 
 ```
 ```card
 title: 江小白 (Animation sound director)

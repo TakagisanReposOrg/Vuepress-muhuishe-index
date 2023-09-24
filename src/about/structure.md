@@ -68,7 +68,7 @@ link: https://space.bilibili.com/1203140540
 title: Mrtank/贴吧坦克君<br>（翻译 & AI配音组主管）
 desc: 一个在职菜鸡程序员兼技术宅，擅长给自己瞎点“技能点”，比如通过点亮“模组制作技术”来整出GTA高木这种让人眼前一黑的活。在项目中负责翻译和AI配音。
 logo: https://pic.mufeng086.com/i/2023/09/24/j263m5.webp
-link: https://space.bilibili.com/1685876549 
+link: https://space.bilibili.com/1791122
 ```
 ```card
 title: 江小白 （动画音响部长）

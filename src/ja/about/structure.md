@@ -68,7 +68,7 @@ link: https://space.bilibili.com/1203140540
 title: Mrtank<br>（翻訳 & AIキャストグループ担当）
 desc: 社会人初心者プログラマで技術オタクの私は、GTA高木を作るための「モジュール制作技術」に光を当てるなど、自分にとって変な「スキルポイント」を光らせるのが得意で、人から見たら恥ずかしがるような仕事です。 このプロジェクトでは翻訳とAI吹き替えを担当しています。
 logo: https://pic.mufeng086.com/i/2023/09/24/j263m5.webp
-link: https://space.bilibili.com/1685876549 
+link: https://space.bilibili.com/1791122
 ```
 ```card
 title: 江小白 （アニメ音響監督）
