@@ -17,10 +17,6 @@
       link: ./about/
       icon: book
       
-    - text: ↗️
-      link: .
-      icon: language
-
     - text: 公开信息
       link: ./archive
       icon: fa-solid fa-photo-film
@@ -28,5 +24,9 @@
     - text: 联络
       link: ./about/contact
       icon: sitemap
+
+    - text: 留言板
+      link: ./message-board
+      icon: message
 
 ---

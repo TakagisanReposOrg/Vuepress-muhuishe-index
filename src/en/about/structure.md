@@ -47,22 +47,28 @@ desc: I am a person who focuses on developing myself in multiple directions. Ple
 logo: https://pic.mufeng086.com/i/2023/09/23/lnp4df.webp
 ```
 ```card
-title: 坐等 (Animation & Post-production-Supervisor)
+title: 坐等<br>(Animation & Post-production-Supervisor)
 desc: Occupation-Fine Arts. Good at ps, ai, pr, ae. Able to draw electronically
 logo: https://pic.mufeng086.com/i/2023/09/23/jyxp7b.webp
 link: https://space.bilibili.com/1121247935
 ```
 ```card
-title: Rie (Painting Department-Supervisor)
+title: Rie<br>(Painting Department-Supervisor)
 desc: Hi, hello everyone, I am Rie, who is affectionately called "Black Slave" by everyone in the QQ Channel. I am the supervisor of the Painting department in this event. I hope everyone will like our works from now on. Please take care of us.
 logo: https://pic.mufeng086.com/i/2023/09/23/k2hytn.webp
 link: https://space.bilibili.com/15838604
 ```
 ```card
-title: 阿巴Abba_ (Storyboard Supervisor & Special Director)
+title: 阿巴Abba_<br>(Storyboard Supervisor & Special Director)
 desc: An ordinary high school student who makes fan creations and personal animations.
 logo: https://pic.mufeng086.com/i/2023/09/23/kbcnkv.webp
 link: https://space.bilibili.com/1203140540
+```
+```card
+title: Mrtank<br>（Translation & AI Dubbing Team Supervisor）
+desc: As a working novice programmer and technical nerd, I am good at lighting up some strange "skill points" for myself, such as lighting up "module production technology" to create GTA Takagi, which is a job that makes people feel embarrassed. I am responsible for translation and AI dubbing in the project.
+logo: https://pic.mufeng086.com/i/2023/09/24/j263m5.webp
+link: https://space.bilibili.com/1685876549 
 ```
 ```card
 title: 江小白 (Animation sound director)

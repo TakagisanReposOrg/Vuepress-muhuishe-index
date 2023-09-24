@@ -47,7 +47,7 @@ desc: 私は多面的に自分を成長させることに重点を置いてい�
 logo: https://pic.mufeng086.com/i/2023/09/23/lnp4df.webp
 ```
 ```card
-title: 坐等 （アニメーション制作・ポストプロダクション部担当）
+title: 坐等<br>（アニメーション制作・ポストプロダクション部担当）
 desc: 職業-美術。 ps、ai、pr、aeなどのクリエイティブソフトの使用が得意。 私は電子絵画もできます。
 logo: https://pic.mufeng086.com/i/2023/09/23/jyxp7b.webp
 link: https://space.bilibili.com/1121247935
@@ -59,10 +59,16 @@ logo: https://pic.mufeng086.com/i/2023/09/23/k2hytn.webp
 link: https://space.bilibili.com/15838604
 ```
 ```card
-title: 阿巴Abba_ （絵コンテチーム担当＆特別指導）
+title: 阿巴Abba_<br>（絵コンテチーム担当＆特別指導）
 desc: 二次創作や個人アニメなどを作っている普通の高校生。
 logo: https://pic.mufeng086.com/i/2023/09/23/kbcnkv.webp
 link: https://space.bilibili.com/1203140540
+```
+```card
+title: Mrtank<br>（翻訳 & AIキャストグループ担当）
+desc: 社会人初心者プログラマで技術オタクの私は、GTA高木を作るための「モジュール制作技術」に光を当てるなど、自分にとって変な「スキルポイント」を光らせるのが得意で、人から見たら恥ずかしがるような仕事です。 このプロジェクトでは翻訳とAI吹き替えを担当しています。
+logo: https://pic.mufeng086.com/i/2023/09/24/j263m5.webp
+link: https://space.bilibili.com/1685876549 
 ```
 ```card
 title: 江小白 （アニメ音響監督）
@@ -71,7 +77,7 @@ logo: https://pic.mufeng086.com/i/2023/09/23/jyy57u.webp
 link: https://space.bilibili.com/1685876549 
 ```
 ```card
-title: 66 (宣伝チーム＆チームアカウント運営グループリーダー) 
+title: 66<br>(宣伝チーム＆チームアカウント運営グループリーダー) 
 desc: 私は「高木さん」への愛を動画で表現したくてそれをしただけの人間で、それ以外に才能はなく、ただ「高木さん」の視聴者やファンに幸せを届けたいと願うだけです。
 logo: https://pic.mufeng086.com/i/2023/09/23/tvdr0s.webp
 ```

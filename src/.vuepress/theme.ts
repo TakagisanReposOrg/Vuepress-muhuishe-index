@@ -1,6 +1,7 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import { enNavbar, zhNavbar, jaNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar, jaSidebar } from "./sidebar/index.js";
+import { componentsPlugin } from "vuepress-plugin-components";
 
 export default hopeTheme({
   hostname: "https://anime-team.takagi3.top",
@@ -82,7 +83,33 @@ export default hopeTheme({
         "YouTube",
         "BiliBili",
       ],
+
+      rootComponents: {
+      notice: [
+        {
+          path: "/",
+          title: "Trilingual | 三言語サポート",
+          content: "switch ↓↑ スイッチ",
+          actions: [
+            {
+              text: "English",
+              link: "/en/",
+              type: "primary",
+            },
+            {
+              text: "日本語",
+              link: "/ja/",
+              type: "primary",
+            },
+          ],
+          fullscreen: false,
+          showOnce: true
+        },
+
+      ],
     },
+  },
+
     comment: {
       provider: "Waline",
       comment: false,

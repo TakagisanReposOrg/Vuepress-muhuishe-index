@@ -65,6 +65,12 @@ logo: https://pic.mufeng086.com/i/2023/09/23/kbcnkv.webp
 link: https://space.bilibili.com/1203140540
 ```
 ```card
+title: Mrtank/贴吧坦克君<br>（翻译 & AI配音组主管）
+desc: 一个在职菜鸡程序员兼技术宅，擅长给自己瞎点“技能点”，比如通过点亮“模组制作技术”来整出GTA高木这种让人眼前一黑的活。在项目中负责翻译和AI配音。
+logo: https://pic.mufeng086.com/i/2023/09/24/j263m5.webp
+link: https://space.bilibili.com/1685876549 
+```
+```card
 title: 江小白 （动画音响部长）
 desc: 大家好我是江小白hhh，在读大学生一枚，热爱音乐，以唱歌见长，高二开始接触音乐制作与后期处理的专业知识，目前技术尚不成熟，还在学习当中。期待与大家一起创造奇迹！
 logo: https://pic.mufeng086.com/i/2023/09/23/jyy57u.webp

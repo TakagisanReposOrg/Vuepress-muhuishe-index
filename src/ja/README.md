@@ -17,10 +17,6 @@ actions:
     link: ./about/
     icon: book
 
-  - text: ↗️
-    link: .
-    icon: language
-
   - text: 公開情報
     link: ./archive
     icon: fa-solid fa-photo-film
@@ -28,4 +24,8 @@ actions:
   - text: お問い合わせ
     link: ./about/contact
     icon: sitemap
+
+  - text: 伝言板
+    link: ./message-board
+    icon: message
 ---
