@@ -4,4 +4,4 @@ icon: message
 index: true
 comment: true
 ---
-**有什么想我们说的，可在下方评论区域留言。**
+**有什么想对我们说的，可在下方评论区域留言。**
