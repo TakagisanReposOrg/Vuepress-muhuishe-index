@@ -18,7 +18,7 @@ Recording time: 2023.9.23
    - **Modeling Group**:
      Rie, 哆啦A梦, 致以杰, 阿巴阿巴
    - **Animation Group**:
-    坐等, 致以杰, 团子, 坐等, Rie
+     致以杰, 团子, 坐等, Rie
 - **Animation Sound Department**:
   江小白, 小瑀, 暖风, 翼, 付铭涛, 皮卡丘Kevin_Sun
 - **Script Department**:
