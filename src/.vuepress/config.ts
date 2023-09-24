@@ -25,7 +25,8 @@ export default defineUserConfig({
 
   head: [
     // ...
-  
+    ['meta', { name: 'baidu-site-verification', content: 'codeva-yDSciMGKcU' }],
+    
     ['script', { async: true, src: 'https://analytics.takagi3.top/script.js', 'data-website-id': '366d5294-3da6-4867-b7c4-64876330ffe7' }],
       
     // 导入相应链接
