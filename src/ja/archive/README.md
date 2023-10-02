@@ -15,6 +15,10 @@ icon: fa-solid fa-photo-film
 <YouTube id="AR9kq_hEnA0" />
 
 @tab 進捗プレビュー
+- **絵コンテ素材 1&2**（2023.9.30）
+![](https://pic.mufeng086.com/i/2023/10/02/pnigan.webp)
+![](https://pic.mufeng086.com/i/2023/10/02/pnid2u.webp)
+
 - **絵コンテ 2** (2023.9.22)
  
 ![](https://pic.mufeng086.com/i/2023/09/24/kn40am.webp)

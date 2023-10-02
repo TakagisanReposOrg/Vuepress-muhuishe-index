@@ -5,6 +5,9 @@ icon: fa-solid fa-photo-film
 :::tabs
 
 @tab 项目相关视频
+- **2023.09 制作进度汇报** （2023.9.30）
+<BiliBili bvid="BV1g84y1S7W6" />
+
 - **2023.08 制作进度汇报** （2023.8.31）
 <BiliBili bvid="BV19p4y1j79k" />
 
@@ -12,6 +15,10 @@ icon: fa-solid fa-photo-film
 <BiliBili bvid="BV1sV41157f2" />
 
 @tab 进度预览
+- **分卡素材 1&2**（2023.9.30）
+![](https://pic.mufeng086.com/i/2023/10/02/pnigan.webp)
+![](https://pic.mufeng086.com/i/2023/10/02/pnid2u.webp)
+
 - **分镜稿 2** （2023.9.22）
  
 ![](https://pic.mufeng086.com/i/2023/09/24/kn40am.webp)
