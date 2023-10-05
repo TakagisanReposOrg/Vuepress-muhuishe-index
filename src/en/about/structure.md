@@ -26,7 +26,7 @@ root((Muhuishe))
 ```card
 title: 嘿嘿嘿 (General Manager)
 desc: As a high school student who loves "Takagi-san" and an unknown fan in the Takagi community, I will lead the team forward with all my strength! Takagi-san’s story never ends!
-logo: https://pic.mufeng086.com/i/2023/09/23/jyxu0h.webp
+logo: https://i.ibb.co/g6Rkzmv/sm67xi.webp
 link: https://blog.jerrydeng.online
 ```
 ```card
