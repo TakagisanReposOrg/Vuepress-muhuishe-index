@@ -3,7 +3,7 @@
   icon: home
   title: 主页
   footer: '
-  <a href="https://vuepress.vuejs.org/"><img src="https://img.shields.io/badge/VuePress-2.0.0-brightgreen?style=flat&logo=vue.js" alt=\"VuePress"></a> <a href="https://github.com/vuepress-theme-hope/vuepress-theme-hope"><img src="https://img.shields.io/badge/Theme-Hope-3eaf7c?style=flat" alt="Theme"></a> <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-gray?style=flat&logo=vercel" alt="Vercel"></a><br>
+  <a href="https://vuepress.vuejs.org/"><img src="https://img.shields.io/badge/VuePress-2.0.0-brightgreen?style=flat&logo=vue.js" alt=\"VuePress"></a> <a href="https://github.com/vuepress-theme-hope/vuepress-theme-hope"><img src="https://img.shields.io/badge/Theme-Hope-3eaf7c?style=flat" alt="Theme"></a> <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-gray?style=flat&logo=vercel" alt="Vercel"></a> <a href="https://www.dogecloud.com/"><img src="https://img.shields.io/badge/CDN-多吉云-blue?style=flat&logo=cloud&color=%2370a2ea" alt="CDN"></a><br>
   <b>网站制作：<a href="https://space.bilibili.com/321425686/">轻虹空雨</a> | 背景图作者: <a href="https://space.bilibili.com/1203140540">阿巴Abba_</a></b>'
   bgImage: https://pic.mufeng086.com/i/2023/09/22/ixv1yn.webp
   bgImageStyle:
